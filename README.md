@@ -1,5 +1,6 @@
 # StoreManagementProject
 Store management system with local database
+
 Initial Login Menu
 ![9NBrLyJ](https://user-images.githubusercontent.com/19782499/206835702-1a03f70d-e27c-4c8a-b374-977e96ac02c3.png)
 
